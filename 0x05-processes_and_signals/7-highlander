@@ -5,7 +5,7 @@
 
 trap 'echo "I am invincible!!!"' SIGTERM
 counter=2
-while [ $counter -gt 0]; do
+while [ $counter -gt 0]; do:
     echo "To infinity and beyond"
     sleep 2
 done
