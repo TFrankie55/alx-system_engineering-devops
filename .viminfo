@@ -54,36 +54,54 @@
 |3,0,2,1,1,0,1649004130,"echo \"ALX School\""
 
 # File marks:
-'0  2  36  /alx-system_engineering-devops/0x02-shell_redirections/100-empty_casks
-|4,48,2,36,1649165438,"/alx-system_engineering-devops/0x02-shell_redirections/100-empty_casks"
-'1  1  0  /alx-system_engineering-devops/.git/MERGE_MSG
-|4,49,1,0,1649135120,"/alx-system_engineering-devops/.git/MERGE_MSG"
-'2  2  32  /alx-system_engineering-devops/0x02-shell_redirections/22-users_and_homes
-|4,50,2,32,1649134949,"/alx-system_engineering-devops/0x02-shell_redirections/22-users_and_homes"
-'3  1  46  /alx-system_engineering-devops/0x02-shell_redirections/22-users_and_homes
-|4,51,1,46,1649134688,"/alx-system_engineering-devops/0x02-shell_redirections/22-users_and_homes"
-'4  2  35  /alx-system_engineering-devops/0x02-shell_redirections/22-users_and_homes
-|4,52,2,35,1649134688,"/alx-system_engineering-devops/0x02-shell_redirections/22-users_and_homes"
-'5  2  16  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
-|4,53,2,16,1649130347,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
-'6  2  12  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
-|4,54,2,12,1649130112,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
-'7  2  16  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
-|4,55,2,16,1649129786,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
+'0  1  0  ~/.git/COMMIT_EDITMSG
+|4,48,1,0,1649166511,"~/.git/COMMIT_EDITMSG"
+'1  2  36  /alx-system_engineering-devops/0x02-shell_redirections/100-empty_casks
+|4,49,2,36,1649165438,"/alx-system_engineering-devops/0x02-shell_redirections/100-empty_casks"
+'2  1  0  /alx-system_engineering-devops/.git/MERGE_MSG
+|4,50,1,0,1649135120,"/alx-system_engineering-devops/.git/MERGE_MSG"
+'3  2  32  /alx-system_engineering-devops/0x02-shell_redirections/22-users_and_homes
+|4,51,2,32,1649134949,"/alx-system_engineering-devops/0x02-shell_redirections/22-users_and_homes"
+'4  1  46  /alx-system_engineering-devops/0x02-shell_redirections/22-users_and_homes
+|4,52,1,46,1649134688,"/alx-system_engineering-devops/0x02-shell_redirections/22-users_and_homes"
+'5  2  35  /alx-system_engineering-devops/0x02-shell_redirections/22-users_and_homes
+|4,53,2,35,1649134688,"/alx-system_engineering-devops/0x02-shell_redirections/22-users_and_homes"
+'6  2  16  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
+|4,54,2,16,1649130347,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
+'7  2  12  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
+|4,55,2,12,1649130112,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
 '8  2  16  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
 |4,56,2,16,1649129786,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
-'9  3  0  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
-|4,57,3,0,1649128676,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
+'9  2  16  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
+|4,57,2,16,1649129786,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
 
 # Jumplist (newest first):
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1649166511,"~/.git/COMMIT_EDITMSG"
 -'  2  36  /alx-system_engineering-devops/0x02-shell_redirections/100-empty_casks
 |4,39,2,36,1649165438,"/alx-system_engineering-devops/0x02-shell_redirections/100-empty_casks"
+-'  2  36  /alx-system_engineering-devops/0x02-shell_redirections/100-empty_casks
+|4,39,2,36,1649165438,"/alx-system_engineering-devops/0x02-shell_redirections/100-empty_casks"
+-'  1  0  /alx-system_engineering-devops/0x02-shell_redirections/100-empty_casks
+|4,39,1,0,1649165338,"/alx-system_engineering-devops/0x02-shell_redirections/100-empty_casks"
 -'  1  0  /alx-system_engineering-devops/0x02-shell_redirections/100-empty_casks
 |4,39,1,0,1649165338,"/alx-system_engineering-devops/0x02-shell_redirections/100-empty_casks"
 -'  1  0  /alx-system_engineering-devops/.git/MERGE_MSG
 |4,39,1,0,1649135120,"/alx-system_engineering-devops/.git/MERGE_MSG"
 -'  1  0  /alx-system_engineering-devops/.git/MERGE_MSG
 |4,39,1,0,1649135120,"/alx-system_engineering-devops/.git/MERGE_MSG"
+-'  1  0  /alx-system_engineering-devops/.git/MERGE_MSG
+|4,39,1,0,1649135120,"/alx-system_engineering-devops/.git/MERGE_MSG"
+-'  1  0  /alx-system_engineering-devops/.git/MERGE_MSG
+|4,39,1,0,1649135120,"/alx-system_engineering-devops/.git/MERGE_MSG"
+-'  2  32  /alx-system_engineering-devops/0x02-shell_redirections/22-users_and_homes
+|4,39,2,32,1649134949,"/alx-system_engineering-devops/0x02-shell_redirections/22-users_and_homes"
+-'  2  32  /alx-system_engineering-devops/0x02-shell_redirections/22-users_and_homes
+|4,39,2,32,1649134949,"/alx-system_engineering-devops/0x02-shell_redirections/22-users_and_homes"
+-'  2  32  /alx-system_engineering-devops/0x02-shell_redirections/22-users_and_homes
+|4,39,2,32,1649134949,"/alx-system_engineering-devops/0x02-shell_redirections/22-users_and_homes"
+-'  2  32  /alx-system_engineering-devops/0x02-shell_redirections/22-users_and_homes
+|4,39,2,32,1649134949,"/alx-system_engineering-devops/0x02-shell_redirections/22-users_and_homes"
 -'  2  32  /alx-system_engineering-devops/0x02-shell_redirections/22-users_and_homes
 |4,39,2,32,1649134949,"/alx-system_engineering-devops/0x02-shell_redirections/22-users_and_homes"
 -'  2  32  /alx-system_engineering-devops/0x02-shell_redirections/22-users_and_homes
@@ -100,6 +118,14 @@
 |4,39,1,46,1649134791,"/alx-system_engineering-devops/0x02-shell_redirections/22-users_and_homes"
 -'  1  46  /alx-system_engineering-devops/0x02-shell_redirections/22-users_and_homes
 |4,39,1,46,1649134791,"/alx-system_engineering-devops/0x02-shell_redirections/22-users_and_homes"
+-'  1  46  /alx-system_engineering-devops/0x02-shell_redirections/22-users_and_homes
+|4,39,1,46,1649134791,"/alx-system_engineering-devops/0x02-shell_redirections/22-users_and_homes"
+-'  1  46  /alx-system_engineering-devops/0x02-shell_redirections/22-users_and_homes
+|4,39,1,46,1649134791,"/alx-system_engineering-devops/0x02-shell_redirections/22-users_and_homes"
+-'  1  46  /alx-system_engineering-devops/0x02-shell_redirections/22-users_and_homes
+|4,39,1,46,1649134791,"/alx-system_engineering-devops/0x02-shell_redirections/22-users_and_homes"
+-'  1  46  /alx-system_engineering-devops/0x02-shell_redirections/22-users_and_homes
+|4,39,1,46,1649134791,"/alx-system_engineering-devops/0x02-shell_redirections/22-users_and_homes"
 -'  2  35  /alx-system_engineering-devops/0x02-shell_redirections/22-users_and_homes
 |4,39,2,35,1649134688,"/alx-system_engineering-devops/0x02-shell_redirections/22-users_and_homes"
 -'  2  35  /alx-system_engineering-devops/0x02-shell_redirections/22-users_and_homes
@@ -108,6 +134,22 @@
 |4,39,2,35,1649134688,"/alx-system_engineering-devops/0x02-shell_redirections/22-users_and_homes"
 -'  2  35  /alx-system_engineering-devops/0x02-shell_redirections/22-users_and_homes
 |4,39,2,35,1649134688,"/alx-system_engineering-devops/0x02-shell_redirections/22-users_and_homes"
+-'  2  35  /alx-system_engineering-devops/0x02-shell_redirections/22-users_and_homes
+|4,39,2,35,1649134688,"/alx-system_engineering-devops/0x02-shell_redirections/22-users_and_homes"
+-'  2  35  /alx-system_engineering-devops/0x02-shell_redirections/22-users_and_homes
+|4,39,2,35,1649134688,"/alx-system_engineering-devops/0x02-shell_redirections/22-users_and_homes"
+-'  2  35  /alx-system_engineering-devops/0x02-shell_redirections/22-users_and_homes
+|4,39,2,35,1649134688,"/alx-system_engineering-devops/0x02-shell_redirections/22-users_and_homes"
+-'  2  35  /alx-system_engineering-devops/0x02-shell_redirections/22-users_and_homes
+|4,39,2,35,1649134688,"/alx-system_engineering-devops/0x02-shell_redirections/22-users_and_homes"
+-'  1  0  /alx-system_engineering-devops/0x02-shell_redirections/22-users_and_homes
+|4,39,1,0,1649134648,"/alx-system_engineering-devops/0x02-shell_redirections/22-users_and_homes"
+-'  1  0  /alx-system_engineering-devops/0x02-shell_redirections/22-users_and_homes
+|4,39,1,0,1649134648,"/alx-system_engineering-devops/0x02-shell_redirections/22-users_and_homes"
+-'  1  0  /alx-system_engineering-devops/0x02-shell_redirections/22-users_and_homes
+|4,39,1,0,1649134648,"/alx-system_engineering-devops/0x02-shell_redirections/22-users_and_homes"
+-'  1  0  /alx-system_engineering-devops/0x02-shell_redirections/22-users_and_homes
+|4,39,1,0,1649134648,"/alx-system_engineering-devops/0x02-shell_redirections/22-users_and_homes"
 -'  1  0  /alx-system_engineering-devops/0x02-shell_redirections/22-users_and_homes
 |4,39,1,0,1649134648,"/alx-system_engineering-devops/0x02-shell_redirections/22-users_and_homes"
 -'  1  0  /alx-system_engineering-devops/0x02-shell_redirections/22-users_and_homes
@@ -148,6 +190,38 @@
 |4,39,2,16,1649130347,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
 -'  2  16  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
 |4,39,2,16,1649130347,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
+-'  2  16  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
+|4,39,2,16,1649130347,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
+-'  2  16  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
+|4,39,2,16,1649130347,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
+-'  2  16  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
+|4,39,2,16,1649130347,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
+-'  2  16  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
+|4,39,2,16,1649130347,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
+-'  2  16  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
+|4,39,2,16,1649130347,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
+-'  2  16  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
+|4,39,2,16,1649130347,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
+-'  2  16  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
+|4,39,2,16,1649130347,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
+-'  2  16  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
+|4,39,2,16,1649130347,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
+-'  2  16  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
+|4,39,2,16,1649130347,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
+-'  2  16  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
+|4,39,2,16,1649130347,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
+-'  2  16  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
+|4,39,2,16,1649130347,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
+-'  2  16  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
+|4,39,2,16,1649130347,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
+-'  2  16  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
+|4,39,2,16,1649130347,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
+-'  2  16  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
+|4,39,2,16,1649130347,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
+-'  2  16  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
+|4,39,2,16,1649130347,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
+-'  2  16  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
+|4,39,2,16,1649130347,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
 -'  2  12  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
 |4,39,2,12,1649130112,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
 -'  2  12  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
@@ -180,102 +254,28 @@
 |4,39,2,12,1649130112,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
 -'  2  12  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
 |4,39,2,12,1649130112,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
--'  2  16  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
-|4,39,2,16,1649129786,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
--'  2  16  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
-|4,39,2,16,1649129786,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
--'  2  16  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
-|4,39,2,16,1649129786,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
--'  2  16  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
-|4,39,2,16,1649129786,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
--'  2  16  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
-|4,39,2,16,1649129786,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
--'  2  16  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
-|4,39,2,16,1649129786,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
--'  2  16  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
-|4,39,2,16,1649129786,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
--'  2  16  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
-|4,39,2,16,1649129786,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
--'  2  16  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
-|4,39,2,16,1649129786,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
--'  2  16  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
-|4,39,2,16,1649129786,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
--'  2  16  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
-|4,39,2,16,1649129786,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
--'  2  16  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
-|4,39,2,16,1649129786,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
--'  2  16  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
-|4,39,2,16,1649129786,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
--'  2  16  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
-|4,39,2,16,1649129786,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
--'  2  16  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
-|4,39,2,16,1649129786,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
--'  2  16  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
-|4,39,2,16,1649129786,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
--'  3  0  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
-|4,39,3,0,1649128676,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
--'  3  0  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
-|4,39,3,0,1649128676,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
--'  3  0  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
-|4,39,3,0,1649128676,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
--'  3  0  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
-|4,39,3,0,1649128676,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
--'  3  0  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
-|4,39,3,0,1649128676,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
--'  3  0  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
-|4,39,3,0,1649128676,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
--'  3  0  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
-|4,39,3,0,1649128676,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
--'  3  0  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
-|4,39,3,0,1649128676,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
--'  3  0  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
-|4,39,3,0,1649128676,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
--'  3  0  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
-|4,39,3,0,1649128676,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
--'  3  0  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
-|4,39,3,0,1649128676,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
--'  3  0  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
-|4,39,3,0,1649128676,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
--'  3  0  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
-|4,39,3,0,1649128676,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
--'  3  0  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
-|4,39,3,0,1649128676,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
--'  3  0  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
-|4,39,3,0,1649128676,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
--'  3  0  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
-|4,39,3,0,1649128676,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
--'  3  0  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
-|4,39,3,0,1649128676,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
--'  3  0  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
-|4,39,3,0,1649128676,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
--'  3  0  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
-|4,39,3,0,1649128676,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
--'  3  0  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
-|4,39,3,0,1649128676,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
--'  3  0  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
-|4,39,3,0,1649128676,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
--'  3  0  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
-|4,39,3,0,1649128676,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
--'  3  0  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
-|4,39,3,0,1649128676,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
--'  3  0  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
-|4,39,3,0,1649128676,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
--'  3  0  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
-|4,39,3,0,1649128676,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
--'  3  0  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
-|4,39,3,0,1649128676,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
--'  3  0  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
-|4,39,3,0,1649128676,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
--'  3  0  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
-|4,39,3,0,1649128676,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
--'  3  0  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
-|4,39,3,0,1649128676,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
--'  3  0  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
-|4,39,3,0,1649128676,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
--'  3  0  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
-|4,39,3,0,1649128676,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
--'  3  0  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
-|4,39,3,0,1649128676,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
+-'  2  12  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
+|4,39,2,12,1649130112,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
+-'  2  12  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
+|4,39,2,12,1649130112,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
+-'  2  12  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
+|4,39,2,12,1649130112,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
+-'  2  12  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
+|4,39,2,12,1649130112,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
+-'  2  12  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
+|4,39,2,12,1649130112,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
+-'  2  12  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
+|4,39,2,12,1649130112,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
+-'  2  12  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
+|4,39,2,12,1649130112,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
+-'  2  12  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
+|4,39,2,12,1649130112,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
+-'  2  12  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
+|4,39,2,12,1649130112,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
+-'  2  12  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
+|4,39,2,12,1649130112,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
+-'  2  12  /alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
+|4,39,2,12,1649130112,"/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files"
 
 # History of marks within files (newest to oldest):
 
