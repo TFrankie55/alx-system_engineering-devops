@@ -33,20 +33,19 @@ defaults
         errorfile 503 /etc/haproxy/errors/503.http                                                                                                                                                        
         errorfile 504 /etc/haproxy/errors/504.http                                                                                                                                                        
                                                                                                                                                                                                           
-# start of parameters for tsmartdev.tech                                                                                                                                                                 
-frontend tsmartdev.tech-http-frontend                                                                                                                                                                     
+frontend www-http                                                                                                                                                                
+        # frontend config settings                                                                                                                                                                     
         bind :80                                                                                                                                                                                      
-        http-request set-header X-Forwarded-Proto http                                                                                                                                                    
-        default_backend tsmartdev.tech-backend                                                                                                                                                            
-                                                                                                                                                                                                          
-                                                                                                                                                                                                          
-frontend tsmartdev.tech-https-frontend                                                                                                                                                                    
-        bind *:443 ssl crt /etc/letsencrypt/live/tsmartdev.tech/fullchain.pem                                                                                                                                                    
-        http-request set-header X-Forwarded-Proto https                                                                                                                                                   
-        default_backend tsmartdev.tech-backend                                                                                                                                                            
-                                                                                                                                                                                                          
-                                                                                                                                                                                                          
-backend tsmartdev.tech-backend                                                                                                                                                                            
+        http-request add-header X-Forwarded-Proto http                                                                                                                                                    
+        default_backend www-backend                                                                                                                                                            
+        
+frontend www-https
+        # backend config settings
+        bind *:443 ssl crt /etc/haproxy/certs/tsmartdev.tech.pem                                                                                                                                                    
+        http-request add-header X-Forwarded-Proto https                                                                                                                                                   
+        default_backend www-backend                                                                                                                                                            
+        
+backend www-backend                                                                                                                                                                           
         balance roundrobin                                                                                                                                                                                
         server 46644-web-01 35.175.112.83:80 check                                                                                                                                                        
         server 46644-web-02 34.229.67.245:80 check                                                                                                                                                        
