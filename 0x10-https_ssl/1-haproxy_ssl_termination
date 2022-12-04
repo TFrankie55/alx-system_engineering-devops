@@ -41,7 +41,7 @@ frontend www-http
         
 frontend www-https
         # backend config settings
-        bind *:443 ssl crt /etc/haproxy/certs/tsmartdev.tech.pem                                                                                                                                                    
+        bind *:443 ssl crt /etc/haproxy/certs/www.tsmartdev.tech.pem                                                                                                                                                    
         http-request add-header X-Forwarded-Proto https                                                                                                                                                   
         default_backend www-backend                                                                                                                                                            
         
