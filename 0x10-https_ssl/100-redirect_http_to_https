@@ -47,6 +47,6 @@ frontend www-https
         
 backend www-backend                                                                                                                                                                           
         balance roundrobin                                                                                                                                                                                
-        server 46644-web-01 35.175.112.83:80 check                                                                                                                                                        
-        server 46644-web-02 34.229.67.245:80 check                                                                                                                                                        
+        server 46644-web-01 100.25.143.77:80 check                                                                                                                                                        
+        server 46644-web-02 54.89.13.227:80 check                                                                                                                                                        
 # end of parameter
